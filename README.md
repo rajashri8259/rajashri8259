@@ -10,8 +10,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=rajashri8259&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/rajashri8259?style=for-the-badge&logo=github&color=7dd3fc&labelColor=0f172a" alt="Followers" />
+<img src="https://hits.sh/github.com/rajashri8259.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=7dd3fc&labelColor=0f172a" alt="Profile views" /><img src="https://img.shields.io/github/followers/rajashri8259?style=for-the-badge&logo=github&color=7dd3fc&labelColor=0f172a" alt="Followers" />
 
 </div>
 
@@ -101,12 +100,10 @@ Also: SQL · APIs · Seaborn · Watson · DevOps · UI/UX
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajashri8259&theme=nord&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajashri8259&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc&hide_border=true" alt="Contribution graph" />
-
+<img src="https://ghchart.rshah.org/7dd3fc/rajashri8259" alt="Contribution graph" />
 </div>
 
 ---
